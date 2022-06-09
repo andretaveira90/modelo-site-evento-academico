@@ -1,0 +1,27 @@
+
+body {
+  background-color: #d8c9bd;
+}
+
+.navbar {
+  background-color: #328daa; 
+  margin-bottom: 10px;
+}
+
+.navbar-brand:hover {
+  background: #8ed3f4;
+  border-radius: 4px;
+}
+
+.nav-item:hover {
+  background: #8ed3f4;
+  border-radius: 4px;
+}
+
+.map {
+  margin: 2% 10% 2% 10%;
+  height: 400px;
+  width: 80%;
+  align-items: center;
+  border: 2px solid;
+}

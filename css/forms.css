@@ -1,0 +1,17 @@
+body {
+    background-color: #d8c9bd;
+}
+
+.navbar {
+   background-color: #328daa; 
+   margin-bottom: 10px;
+}
+
+.navbar-brand {
+   cursor: pointer;
+}
+
+.navbar-brand:hover {
+    background: #8ed3f4;
+    border-radius: 4px;
+}
