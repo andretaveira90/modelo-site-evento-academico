@@ -3,8 +3,10 @@ body {
 }
 
 .navbar {
-   background-color: #328daa; 
-   margin-bottom: 10px;
+    position: fixed;
+    width: 80%;
+    background-color: #328daa; 
+    margin-bottom: 0px;
 }
 
 .navbar-brand {
@@ -19,6 +21,11 @@ body {
 .nav-item:hover {
     background: #8ed3f4;
     border-radius: 4px;
+}
+
+.space {
+    height: 50px;
+    margin-bottom: 8px;
 }
 
 .footer {
