@@ -2,7 +2,7 @@
 
 ### Idéia base do frontend de um site para evento acadêmico, com sistema de validação de presença para emissão de certificados.
 
-### Link para visualização: [Modelo](https://andretaveira90.github.io/modelo-site-evento-academico/)
+### Link para visualização: [Modelo](https://taveira90.github.io/modelo-site-evento-academico/)
 
 #### Utilizado:
 HTML5 - estrutura das páginas e formulários
